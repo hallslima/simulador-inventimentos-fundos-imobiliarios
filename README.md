@@ -17,7 +17,7 @@ Este projeto é uma ferramenta desenvolvida em Microsoft Excel que permite simul
 - Fórmulas e funções do Excel
 - Visualização de dados com gráficos
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 ## Tecnologias Utilizadas
 - Microsoft Excel
