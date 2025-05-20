@@ -17,13 +17,18 @@ Este projeto é uma ferramenta desenvolvida em Microsoft Excel que permite simul
 - Fórmulas e funções do Excel
 - Visualização de dados com gráficos
 
-## Estrutura do Repositório
-
 ## Tecnologias Utilizadas
 - Microsoft Excel
 - GitHub para versionamento e documentação
 
 ## Capturas de Tela
+[Interface_Configurações](images/print1_interface.png) 
+
+[Gráficos de Patrimônio e Dividendos](images/print2_interface.png) 
+
+[Distribuição por Perfil](images/print3_interface.png) 
+
+[Configuração do Perfil](images/print4_distribuicao_perfil.png) 
 
 ## Como Usar
 1. Baixe a planilha [Simulador_Investimentos.xlsx](Simulador_Investimentos.xlsx)
