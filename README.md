@@ -26,7 +26,7 @@ Este projeto é uma ferramenta desenvolvida em Microsoft Excel que permite simul
 ## Capturas de Tela
 
 ## Como Usar
-1. Baixe a planilha
+1. Baixe a planilha [Simulador_Investimentos.xlsx](Simulador_Investimentos.xlsx)
 2. Preencha os campos de entrada
 3. Analise os gráficos e os resultados dos cálculos
 
